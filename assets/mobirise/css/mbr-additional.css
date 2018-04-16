@@ -1764,8 +1764,8 @@ body {
 .cid-qP2TeGvwq0 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: #ffffff;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
+  background: #ff3366;
+  background: linear-gradient(0deg, #149dcc, #ff3366);
 }
 .cid-qP2TeGvwq0 .image-block {
   margin: auto;
@@ -2239,4 +2239,17 @@ body {
 .cid-qPn80cXHEP .mbr-text {
   color: #232323;
   text-align: left;
+}
+.cid-qPnrn270Fk {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
+}
+.cid-qPnrtdEHrA {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qPnrtdEHrA .mbr-text {
+  color: #232323;
 }
